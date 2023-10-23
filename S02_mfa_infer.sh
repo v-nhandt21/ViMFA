@@ -1,0 +1,1 @@
+mfa align DATA/test_data/speaker_01 phoneme_dict/viIPA.txt acoustic_model/viIPA.zip DATA/test_aligned/speaker_01

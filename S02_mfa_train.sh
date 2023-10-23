@@ -1,0 +1,1 @@
+mfa train --config_path acoustic_model/config_test.yaml DATA/test_data phoneme_dict/viIPA.txt acoustic_model/viIPA.zip
