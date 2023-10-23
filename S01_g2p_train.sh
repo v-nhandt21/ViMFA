@@ -1,0 +1,1 @@
+mfa train_g2p phoneme_dict/viIPA.txt g2p_model/viIPA.zip
